@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Astronaut Analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - orcid: 'https://orcid.org/0000-0001-6372-3853'
+    affiliation: German Aerospace Center (DLR e.V.)
+    given-names: Michael
+    family-names: Meinel
+    email: michael.meinel@dlr.de
+  - given-names: Tobias
+    family-names: Schlauch
+    email: tobias.schlauch@dlr.de
+    affiliation: German Aerospace Center (DLR e.V.)
+  - given-names: Martin
+    family-names: Stoffers
+repository-code: >-
+  https://gitlab.rlp.net/studiengang-digitale-methodik/modul-8/8b/software-carpentry-workshop-2023/astronaut-analysis
+abstract: >-
+  This analysis is based on publicly available astronauts
+  data from Wikidata.
+
+  In this context, we investigated aspects such as time
+  humans spent in space as well as the age distribution of
+  the astronauts.
+keywords:
+  - Python
+  - Pandas
+  - Astronaut
+  - Linked Data
+  - Open Data
+license: BSD-3-Clause
+version: 1.0.0
+date-released: '2021-06-07'
